@@ -2,7 +2,7 @@ I have been deeply immersed in Hindustani Classical vocal music and harmonium ac
 
 Over the years, I have had the privilege of performing and accompanying in a variety of settings, including intimate gatherings, formal events, charity concerts, and beyond. A few of my notable performances and accompaniment experiences include are attached below.
 
-Through these experiences, I have cultivated not only my technical skills but also a deep appreciation for the rich traditions of Hindustani music and its ability to connect with audiences on a profound level."
+Through these experiences, I have cultivated not only my technical skills but also a deep appreciation for the rich traditions of Hindustani music and its ability to connect with audiences on a profound level.
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XpCLo4sqG_8?si=LNOU9gqmIyDefPyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
