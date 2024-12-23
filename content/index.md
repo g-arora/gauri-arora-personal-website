@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Gauri Arora
+tags: 
+draft: true
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Hello! My name is Gauri Arora, and I am seeking internship opportunities in Research and Development, Product Development, Bioinformatics, and Data Analytics, particularly within the fields of Drug Delivery, Medical Device Development, Tissue Engineering, and Bioengineering.

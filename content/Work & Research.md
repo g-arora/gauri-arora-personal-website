@@ -48,4 +48,4 @@
 
 * Designs and builds a pulse oximeter biomedical device applying engineering skills in circuitry, PCB design, 3D CAD, Arduino, C++ to ensure optimal performance in measuring blood oxygen levels
 
-![[Pasted image 20241221174235.png]]
+![[Build Team Poster.png]]
